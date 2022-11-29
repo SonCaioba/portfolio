@@ -17,7 +17,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Nível intermediário em língua inglesa e básico em língua espanhola;</p>
+              <p>Inglês (intermediário) e Espanhol (básico);</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
@@ -25,12 +25,14 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Habilidades com Design Gráfico em Adobe Photoshop e Adobe Illustrator;</p>
+              <p>Design Gráfico em Adobe Photoshop e Illustrator;</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
               <p>Experiência com metodologias ágeis de desenvolvimento;</p>
             </li>
+            
+            
           </ul>
         </article>
        {/* END OF UI/UX */} 
@@ -59,12 +61,9 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Disposto para aprender e ensinar;</p>
+              <p>Disposto a aprender e ensinar;</p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Produtividade.</p>
-            </li>
+            
           </ul>
         </article>
        {/* WEB DEVELOPMENT */} 
