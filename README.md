@@ -33,16 +33,16 @@ src/
 
 ## 🛠️ Como rodar localmente
 
-# Clone o repositório
+### Clone o repositório
 git clone https://github.com/SonCaioba/portfolio
 
-# Acesse a pasta do projeto
+### Acesse a pasta do projeto
 cd portfolio
 
-# Instale as dependências
+### Instale as dependências
 npm install
 
-# Rode o projeto em ambiente de desenvolvimento
+### Rode o projeto em ambiente de desenvolvimento
 npm run dev
 
 ## 📬 Contato
